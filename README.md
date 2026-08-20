@@ -26,14 +26,23 @@ Enabled quick identification of trends and KPIs through dynamic filtering and vi
 Improved practical skills in Excel-based business reporting and dashboard development.
 # Key Insights
 • 3,000 EVs analyzed across regions, makes, and usage segments.
+
 • 85.03% battery health indicates a strong overall fleet condition.
+
 • 374.41 KM average range supports broad day-to-day usability.
+
 • Australia leads vehicle distribution with 794 EVs.
+
 • Ford leads manufacturer distribution with 323 vehicles.
+
 • Sedans lead battery capacity at 76.23.
+
 • Vehicle mix is balanced, with each category contributing around 24–26%.
+
 • Usage is well diversified across Personal, Commercial, and Fleet segments.
+
 • Maintenance costs vary significantly by make, creating scope for cost optimization.
+
 • Charging and insurance costs provide clear opportunities for operational efficiency.
 
 <img width="1477" height="665" alt="EV_Vehicle Dashboard" src="https://github.com/user-attachments/assets/aa4f6ae9-294a-4304-ab11-c510332fa318" />
