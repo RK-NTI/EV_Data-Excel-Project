@@ -9,7 +9,7 @@ Built interactive Pivot Charts including Bar, Line, Pie, and Doughnut Charts.
 Implemented Year-wise Slicers for dynamic dashboard filtering.
 Analyzed vehicle distribution by region, manufacturer, usage type, and vehicle category.
 Designed a user-friendly dashboard layout for effective business reporting.
-# Tools & Skills:
+# 🛠️Tools & Skills:
 Microsoft Excel
 Pivot Tables
 Pivot Charts
