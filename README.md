@@ -24,7 +24,7 @@ Data Visualization
 Created a fully interactive Excel dashboard for electric vehicle performance analysis.
 Enabled quick identification of trends and KPIs through dynamic filtering and visual reports.
 Improved practical skills in Excel-based business reporting and dashboard development.
-# 🔑 Key Insights
+# 🔑 Key Insights:
 • 3,000 EVs analyzed across regions, makes, and usage segments.
 
 • 85.03% battery health indicates a strong overall fleet condition.
