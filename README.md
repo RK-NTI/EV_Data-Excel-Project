@@ -20,7 +20,7 @@ Data Cleaning
 KPI Reporting
 Dashboard Design
 Data Visualization
-# Project Outcome:
+# 📈Project Outcome:
 Created a fully interactive Excel dashboard for electric vehicle performance analysis.
 Enabled quick identification of trends and KPIs through dynamic filtering and visual reports.
 Improved practical skills in Excel-based business reporting and dashboard development.
