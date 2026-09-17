@@ -2,43 +2,45 @@
 Developed an interactive Electric Vehicle Analytics Dashboard in Microsoft Excel to analyze vehicle performance and business metrics and
 business intelligence used Pivot Tables, Pivot Charts, Slicers, and Excel formulas to transform raw data into actionable business insights.
 # 💼 Key Responsibilities:
-Cleaned and prepared the dataset for analysis.
+• Cleaned and prepared the dataset for analysis.
 
-Created Pivot Tables to summarize key metrics.
+• Created Pivot Tables to summarize key metrics.
 
-Designed KPI Cards for Total Vehicles, Average Range, Battery Health, Insurance Cost, and Charging Cost.
+• Designed KPI Cards for Total Vehicles, Average Range, Battery Health, Insurance Cost, and Charging Cost.
 
-Built interactive Pivot Charts including Bar, Line, Pie, and Doughnut Charts.
+• Built interactive Pivot Charts including Bar, Line, Pie, and Doughnut Charts.
 
-Implemented Year-wise Slicers for dynamic dashboard filtering.
+• Implemented Year-wise Slicers for dynamic dashboard filtering.
 
-Analyzed vehicle distribution by region, manufacturer, usage type, and vehicle category.
+• Analyzed vehicle distribution by region, manufacturer, usage type, and vehicle category.
 
-Designed a user-friendly dashboard layout for effective business reporting.
+• Designed a user-friendly dashboard layout for effective business reporting.
 # 🛠️Tools & Skills:
-Microsoft Excel
+• Microsoft Excel
 
-Pivot Tables
+• Pivot Tables
 
-Pivot Charts
+• Pivot Charts
 
-Slicers
+• Slicers
 
-Excel Formulas (SUMIFS, COUNTIFS, AVERAGEIFS, IF, XLOOKUP)
+• Excel Formulas (SUMIFS, COUNTIFS, AVERAGEIFS, IF, XLOOKUP)
 
-Conditional Formatting
+• Conditional Formatting
 
-Data Cleaning
+• Data Cleaning
 
-KPI Reporting
+• KPI Reporting
 
-Data Visualization
+• Data Visualization
 
-Dashboard Design
+• Dashboard Design
 # 📈Project Outcome:
-Created a fully interactive Excel dashboard for electric vehicle performance analysis.
-Enabled quick identification of trends and KPIs through dynamic filtering and visual reports.
-Improved practical skills in Excel-based business reporting and dashboard development.
+• Created a fully interactive Excel dashboard for electric vehicle performance analysis.
+
+• Enabled quick identification of trends and KPIs through dynamic filtering and visual reports.
+
+• Improved practical skills in Excel-based business reporting and dashboard development.
 # 🔑 Key Insights:
 • 3,000 EVs analyzed across regions, makes, and usage segments.
 
