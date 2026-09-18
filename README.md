@@ -15,7 +15,7 @@ business intelligence used Pivot Tables, Pivot Charts, Slicers, and Excel formul
 • Analyzed vehicle distribution by region, manufacturer, usage type, and vehicle category.
 
 • Designed a user-friendly dashboard layout for effective business reporting.
-# 🛠️Tools & Skills:
+# 🛠️Tools & Skills: 
 • Microsoft Excel
 
 • Pivot Tables
@@ -61,6 +61,7 @@ business intelligence used Pivot Tables, Pivot Charts, Slicers, and Excel formul
 • Maintenance costs vary significantly by make, creating scope for cost optimization.
 
 • Charging and insurance costs provide clear opportunities for operational efficiency.
+
 
 <img width="1477" height="665" alt="EV_Vehicle Dashboard" src="https://github.com/user-attachments/assets/aa4f6ae9-294a-4304-ab11-c510332fa318" />
 
