@@ -63,6 +63,7 @@ business intelligence used Pivot Tables, Pivot Charts, Slicers, KPI Cards and Ex
 
 • Charging and insurance costs provide clear opportunities for operational efficiency.
 
-
+amn is human
+human is man
 
 <img width="1477" height="665" alt="EV_Vehicle Dashboard" src="https://github.com/user-attachments/assets/aa4f6ae9-294a-4304-ab11-c510332fa318" />
